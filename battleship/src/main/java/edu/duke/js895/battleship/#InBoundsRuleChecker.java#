@@ -1,0 +1,13 @@
+package edu.duke.js895.battleship;
+
+public class InBoundsRuleChecker<T> extends PlacementRuleChecker<T> {
+  
+
+}
+
+
+
+
+
+
+
